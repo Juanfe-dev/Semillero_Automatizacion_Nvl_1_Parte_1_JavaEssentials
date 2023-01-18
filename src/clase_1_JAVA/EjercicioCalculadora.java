@@ -1,4 +1,4 @@
-package clase_1;
+package clase_1_JAVA;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
